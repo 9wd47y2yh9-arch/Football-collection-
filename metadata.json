@@ -1,0 +1,6 @@
+{
+  "name": "FOOTBALL COLLECTION",
+  "description": "実在サッカー選手を集め、カードをコレクション・育成・交換・マーケット取引する完全無料のサッカーコレクションWebゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
